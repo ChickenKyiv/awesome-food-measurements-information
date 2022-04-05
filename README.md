@@ -3,14 +3,22 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-food-measurements-information) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-food-measurements-information)
 ![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
 
+
+
+
+## Details
 It's a big thing, so Arthur moving it away, because it will help us to speed up our releases
 
-Some details about db development: 
+Some details about DB development: 
 - https://medium.com/groceristar/recipe-based-tech-projects-database-structure-basic-troubles-to-be-ready-for-6b48cab2dc2b
 - https://medium.com/groceristar/chickenkyiv-database-logic-intro-part-1-b2c449d92aa3
 - https://medium.com/groceristar/chickenkyiv-database-logic-simple-samples-part-2-1ee3ccc6b3d
 - https://medium.com/groceristar/chicken-kyiv-recipe-db-schema-part3-b80f33ec5d96
 - https://medium.com/groceristar/database-schema-of-groceristar-current-release-20dc1b4be7b9
+
+
+JS Files was moved out into https://github.com/Food-Static-Data/cooking-measurement module
+
 
 #### Different images, that can help you
 
