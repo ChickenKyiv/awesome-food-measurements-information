@@ -20,6 +20,9 @@ Some details about DB development:
 JS Files was moved out into https://github.com/Food-Static-Data/cooking-measurement module
 
 
+More images: https://github.com/Food-Static-Data/cooking-measurement/tree/main/images
+
+
 #### Different images, that can help you
 
 ![xxx](https://github.com/ChickenKyiv/awesome-food-measurements-information/blob/master/images/0b594c69703a61374b1d8b1b0785f601.jpg)
